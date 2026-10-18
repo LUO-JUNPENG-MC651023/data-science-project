@@ -33,7 +33,7 @@ To reproduce the analysis:
 1. Clone this repository or download the files.
 2. Ensure you have Python installed. Install the required libraries by running:
    `pip install -r requirements.txt`
-3. Open the Jupyter Notebook (`analysis.ipynb`) or run the Python script (`analysis.py`).
+3. Open the Jupyter Notebook.
 4. The script will read `student_scores.csv` and generate the visualizations saved in the repository.
 
 ---
